@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navDashboard"
+        android:title="Dashboard"
+        android:icon="@drawable/dashboard_logo" />
+
+    <item
+        android:id="@+id/navClasses"
+        android:title="Classes"
+        android:icon="@drawable/classes_logo" />
+
+    <item
+        android:id="@+id/navProfile"
+        android:title="Profile"
+        android:icon="@drawable/profile_logo" />
+
+    <item
+        android:id="@+id/navSettings"
+        android:title="Settings"
+        android:icon="@drawable/settings_logo" />
+</menu>
